@@ -4,12 +4,12 @@ layout: myn
 
 _List of most repositories_
 
-# [](#web-resource)WebResource
+# [web-resource.html](#web-resource)WebResource
 > Web resource link
 
-# [](#transatlasDB)TransAtlasDB
+# [www.google.com](#transatlasDB)TransAtlasDB
 > Transcriptome analysis Database
 
-# [](#customscripts)Custom scripts
+# [custom.html](#customscripts)Custom scripts
 > Perl Scripts 
 
