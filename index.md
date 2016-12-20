@@ -2,7 +2,7 @@
 layout: myn
 ---
 
-_List of most repositories_
+**_List of most repositories_**
 
 # [](web-resource.html)WebResource
 > Web resource link
